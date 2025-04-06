@@ -1,5 +1,5 @@
 -- RainUI.lua
--- Code by tmaster5000,, chatgpt and snippets from daniel-w's floodmod with permission
+-- Code by tmaster1000, chatgpt and snippets from daniel-w's floodmod with permission
 
 local M = {}
 
